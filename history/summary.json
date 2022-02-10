@@ -22,9 +22,9 @@
     "url": "https://www.radiomercado.es",
     "icon": "https://favicons.githubusercontent.com/www.radiomercado.es",
     "slug": "radio-mercado",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 998,
     "timeMonth": 998,
     "timeYear": 998,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "EA1URA",
