@@ -49,19 +49,19 @@
     "url": "https://www.ea1ura.com",
     "icon": "https://favicons.githubusercontent.com/www.ea1ura.com",
     "slug": "ea-1-ura",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 975,
-    "timeDay": 1775,
-    "timeWeek": 1195,
+    "timeDay": 1518,
+    "timeWeek": 1174,
     "timeMonth": 1007,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2022-04-21": 21
+      "2022-04-21": 34
     }
   }
 ]
