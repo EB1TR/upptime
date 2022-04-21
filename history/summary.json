@@ -4,10 +4,10 @@
     "url": "https://www.eb1tr.com",
     "icon": "https://favicons.githubusercontent.com/www.eb1tr.com",
     "slug": "eb-1-tr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1191,
@@ -15,17 +15,19 @@
     "timeWeek": 1224,
     "timeMonth": 1192,
     "timeYear": 1191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 1
+    }
   },
   {
     "name": "RadioMercado",
     "url": "https://www.radiomercado.es",
     "icon": "https://favicons.githubusercontent.com/www.radiomercado.es",
     "slug": "radio-mercado",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 1183,
@@ -34,6 +36,7 @@
     "timeMonth": 859,
     "timeYear": 1183,
     "dailyMinutesDown": {
+      "2022-04-21": 1,
       "2022-02-26": 17,
       "2022-02-17": 208,
       "2022-02-16": 160,
@@ -46,9 +49,9 @@
     "url": "https://www.ea1ura.com",
     "icon": "https://favicons.githubusercontent.com/www.ea1ura.com",
     "slug": "ea-1-ura",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +60,8 @@
     "timeWeek": 1018,
     "timeMonth": 961,
     "timeYear": 956,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   }
 ]
