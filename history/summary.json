@@ -4,9 +4,9 @@
     "url": "https://www.eb1tr.com",
     "icon": "https://favicons.githubusercontent.com/www.eb1tr.com",
     "slug": "eb-1-tr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1103,
     "timeYear": 1168,
     "dailyMinutesDown": {
+      "2022-07-10": 0,
       "2022-04-21": 35
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.radiomercado.es",
     "icon": "https://favicons.githubusercontent.com/www.radiomercado.es",
     "slug": "radio-mercado",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
@@ -36,6 +37,7 @@
     "timeMonth": 786,
     "timeYear": 1100,
     "dailyMinutesDown": {
+      "2022-07-10": 0,
       "2022-04-21": 21,
       "2022-02-26": 17,
       "2022-02-17": 208,
@@ -49,9 +51,9 @@
     "url": "https://www.ea1ura.com",
     "icon": "https://favicons.githubusercontent.com/www.ea1ura.com",
     "slug": "ea-1-ura",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -61,6 +63,7 @@
     "timeMonth": 899,
     "timeYear": 959,
     "dailyMinutesDown": {
+      "2022-07-10": 0,
       "2022-04-21": 21
     }
   }
